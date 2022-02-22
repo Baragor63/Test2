@@ -4,3 +4,4 @@ Abobus 456
 Abobus 789
 add line
 Conflict test
+new branch line
