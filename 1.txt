@@ -1,8 +1,8 @@
 Abobus 123456
-
 Abobus 456
 Abobus 789
 add line
 Conflict test update
 new branch line
 GUI
+Novaya
